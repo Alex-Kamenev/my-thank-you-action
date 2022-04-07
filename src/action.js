@@ -1,4 +1,4 @@
-import fetch from 'node-fetch';
+// import fetch from 'node-fetch';
 import { getInput } from '@actions/core';
 import github, { getOctokit } from '@actions/github';
 
