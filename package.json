@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Alex-Kamenev/my-thank-you-action#readme",
   "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.1",
     "@vercel/ncc": "^0.33.3"
   }
 }
