@@ -10,6 +10,6 @@ inputs:
     description: 'Tenor API token'
     required: true
 
-run:
+runs:
   using: 'node12'
   main: 'dist/index.js'
