@@ -1,4 +1,4 @@
 # my-thank-you-action
 learning project GitHub Actions
-test
-test 2
+
+See if it works!
