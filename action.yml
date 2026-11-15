@@ -7,9 +7,9 @@ inputs:
     description: 'GitHub token'
     required: true
   TENOR_TOKEN:
-    description: 'Tenor API token'
-    required: true
+    description: 'Optional Tenor API key for a thank-you GIF'
+    required: false
 
 runs:
-  using: 'node12'
-  main: 'dist/index.js'
+  using: 'node24'
+  main: 'dist/index.mjs'
